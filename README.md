@@ -1,4 +1,4 @@
- NYISO2030_codes_data is written primarily in MATLAB. It contains all the codes required to run SCUC for the average scenarios (load and VRES) and SCED for each of the 200 profiles using the unit commitment obtained in the first stage, before and after integrating the scores. It contsins four folders and a number is assigned to each of the folders as per their sequence of execution.
+ NYISO2030_codes_data is written primarily in MATLAB. It contains all the codes required to run SCUC for the average scenarios (load and VRES) and SCED for each of the 200 profiles using the unit commitment obtained in the first stage, before and after integrating the scores. It contsins four folders and a number is assigned to each of the folders as per their sequence of execution. Each folder contains a file named 'Instructions' where the instructions to run the folder are documented. 
  
 Scenarios: This folder creates scenarios using PGscen and convert them into executable m-files through MATLAB commands. 
 
